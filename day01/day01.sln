@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp", "csharp", "{581130
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gosw", "gosw", "{C9461634-64CE-4561-A912-FAACDA9250DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solutionDay1", "solutionDay1\solutionDay1.csproj", "{12B44AD2-7393-4350-9D0B-D7344AED1325}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solutionDay1", "csharp\gosw\solutionDay1\solutionDay1.csproj", "{12B44AD2-7393-4350-9D0B-D7344AED1325}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

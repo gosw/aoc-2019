@@ -7,8 +7,8 @@
     <ProjectGuid>{12B44AD2-7393-4350-9D0B-D7344AED1325}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>solutionDay1</RootNamespace>
-    <AssemblyName>solutionDay1</AssemblyName>
+    <RootNamespace>csharp.gosw.solutionDay1</RootNamespace>
+    <AssemblyName>csharp.gosw.solutionDay1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
